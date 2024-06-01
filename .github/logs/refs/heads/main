@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0f8578f6783c0a135193d57654515c1ad847fa59 Kevin Carrillo <kevincarrillo@Kevins-MacBook-Air.local> 1716923873 -0700	commit (initial): Initial commit
+0f8578f6783c0a135193d57654515c1ad847fa59 2c3ae22a21ab7c25da97fb4d3b4641d821d2fa82 Kevin Carrillo <kevincarrillo@Kevins-MacBook-Air.local> 1716924669 -0700	commit: Added Procfile for Heroku deployment
+2c3ae22a21ab7c25da97fb4d3b4641d821d2fa82 acd66fd21de6ba6022fc9e13d921e78a219ac39d Kevin Carrillo <kevincarrillo@Kevins-MacBook-Air.local> 1716925573 -0700	commit: Added Wine Quality Notebook
+acd66fd21de6ba6022fc9e13d921e78a219ac39d a69c5509c9edf43a1f645ccea467d0f8e8900196 Kevin Carrillo <kevincarrillo@Kevins-MacBook-Air.local> 1716927239 -0700	commit: Add .pkl file to Git LFS
+a69c5509c9edf43a1f645ccea467d0f8e8900196 f02d687e3be71ed3ec13bb3ea43ee0a17e495247 Kevin Carrillo <kevincarrillo@Kevins-MacBook-Air.local> 1717274636 -0700	commit: added files
